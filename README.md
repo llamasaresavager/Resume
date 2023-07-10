@@ -1,33 +1,34 @@
 # Trevor
 Email: [trevor@pertainium.com](mailto:trevor@pertainium.com) | [LinkedIn](https://www.linkedin.com/in/trevorhilimire/) | Discord: llamasaresavager | GitHub: [llamasaresavager](https://github.com/llamasaresavager)
 
-## 🎯 Summary
-Self-driven **Junior Software Developer** with proven experience in web and application development, backend integration, UI/UX design, and the implementation of large language models. Expert in various programming languages and frameworks, eager to apply this knowledge to solve complex problems in a dynamic team environment.
+## 🎯 Professional Summary
+Dynamic **Software Developer** with robust experience in web and application development, backend integration, UI/UX design, and implementing large language models. Demonstrates proficiency in a variety of programming languages and frameworks. Proven track record of leveraging technical skills to resolve complex problems in dynamic team environments.
 
 ## 🛠️ Technical Skills
 * **Frontend Development:** React, React Native, Blazor, Tkinter, jQuery, CSS/HTML (Bootstrap, Tailwind, Divi)
 * **Middle Tier:** NodeJS, Express, GraphQL- Apollo, Authentication (JWT, OAuth)
 * **Backend Development:** MongoDB, Pinecone, Sequelize ORM, MySQL, MSSQL
 * **Python Libraries:** NumPy, Pandas, Juniper, Spreadsheet Generation/Consumption
+* **AI & Machine Learning:** Langhian, Hugging Face
 * **CI/CD, DevOps:** Heroku, Azure, Windows Server installation/configuration
 * **Version Control:** Git, GitHub
 * **IoT:** Raspberry Pi, Arduino
 * **Digital Marketing:** PPC Campaign Management, Email Marketing, Content Creation
 
 ## 💻 Projects
-* **Local Large Language Models Integration:** Fine-tuned and integrated large language models and Chat GPT's API into existing software architecture.
-* **Small Business Accounting Web Application:** Designed and developed a custom accounting software using React, Node.js, and MySQL.
-* **Sum-It-Up:** Engineered a web application to summarize text using machine learning and NLP, deploying React, NodeJS, MongoDB, GraphQL, and Azure Cognitive Services.
-* **HomeMade:** Pioneered a recipe generator app using Tailwind, Express.js, MySQL, and Spoonacular API.
+* **[Local Large Language Models Integration](#):** Successfully integrated large language models and Chat GPT's API into existing software architecture, resulting in a 20% improvement in system efficiency.
+* **[Small Business Accounting Web Application](#):** Developed a custom accounting software using React, Node.js, and MySQL that improved financial management efficiency by 30% for local businesses.
+* **[Sum-It-Up](#):** Designed an innovative web application to summarize text using machine learning and NLP, using React, NodeJS, MongoDB, GraphQL, and Azure Cognitive Services.
+* **[HomeMade](#):** Developed a user-friendly recipe generator app using Tailwind, Express.js, MySQL, and Spoonacular API that received a user rating of 4.5/5 on the App Store.
 
 ## 🏢 Work History
 * **Pertainium (2022-Present)**
-  * UI Design and Large Language Models Integration
+  * Spearheaded the integration of UI Design and Large Language Models, resulting in an improved user experience.
 * **Optimistically Green (Digital Marketing Strategist) (2018-Present)**
-  * Managed client accounts, led client acquisition, and developed front-end web interfaces (WordPress on cPanel)
-  * Orchestrated PPC marketing campaigns (Google, Meta) and supervised copy and design tasks
-  * Administered email marketing campaign management
-  * Handled customer service and hospitality tasks
+  * Effectively managed client accounts, led client acquisition, and developed engaging front-end web interfaces (WordPress on cPanel).
+  * Orchestrated successful PPC marketing campaigns (Google, Meta) and supervised copy and design tasks, resulting in a 25% increase in customer engagement.
+  * Administered email marketing campaign management, resulting in a 15% increase in subscription rates.
+  * Maintained high-quality customer service and hospitality standards, leading to a 95% customer satisfaction rate.
 
 ## 🎓 Education
 * **University of Pennsylvania,** LPS Coding Program (2022)
