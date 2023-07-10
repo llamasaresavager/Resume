@@ -16,9 +16,9 @@ Dynamic **Software Developer** with robust experience in web and application dev
 * **Digital Marketing:** PPC Campaign Management, Email Marketing, Content Creation
 
 ## 💻 Projects
-* **[Local Large Language Models Integration](#):** Successfully integrated large language models and Chat GPT's API into existing software architecture, resulting in a 20% improvement in system efficiency.
-* **[Small Business Accounting Web Application](#):** Developed a custom accounting software using React, Node.js, and MySQL that improved financial management efficiency by 30% for local businesses.
-* **[Sum-It-Up](#):** Designed an innovative web application to summarize text using machine learning and NLP, using React, NodeJS, MongoDB, GraphQL, and Azure Cognitive Services.
+* **[Local Large Language Models Integration](https://github.com/llamasaresavager/CustomLLM.ai):** Successfully integrated large language models and Chat GPT's API into existing software architecture, resulting in a 20% improvement in system efficiency.
+* **[Small Business Accounting Web Application](https://github.com/llamasaresavager/Old-Projects/tree/main/small-business-accounting-react):** Developed a custom accounting software using React, Node.js, and MySQL that improved financial management efficiency by 30% for local businesses.
+* **[Sum-It-Up](https://github.com/llamasaresavager/Old-Projects/tree/main/small-business-accounting-react):** Designed an innovative web application to summarize text using machine learning and NLP, using React, NodeJS, MongoDB, GraphQL, and Azure Cognitive Services.
 * **[HomeMade](#):** Developed a user-friendly recipe generator app using Tailwind, Express.js, MySQL, and Spoonacular API that received a user rating of 4.5/5 on the App Store.
 
 ## 🏢 Work History
